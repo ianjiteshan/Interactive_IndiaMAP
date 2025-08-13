@@ -13,7 +13,7 @@ A modern, responsive interactive map of India showing all states and union terri
 
 ## Live Demo
 
-🌐 **Deployed Application**: [https://jardaund.manus.space](https://jardaund.manus.space)
+🌐 **Deployed Application**: [Vercel Deployed Map](https://interactive-india-hbf9gs6u9-ianjiteshans-projects.vercel.app/)
 
 ## Technology Stack
 
